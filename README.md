@@ -1,3 +1,3 @@
-Projekt-LASKA
+Projekt LASKA
 =============
 Projekt LASKA jest.
