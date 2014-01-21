@@ -8,6 +8,8 @@ Project name: LASKA
 
 Members: Adrian Smykowski, Paweł Sawicki, Radosław Głombiowski, Grzegorz Melzer
 
+Fanpage: https://www.facebook.com/AndrzejeInc
+
 
 
 ###Introduction:
