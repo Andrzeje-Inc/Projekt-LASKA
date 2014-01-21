@@ -14,18 +14,18 @@ Members: Adrian Smykowski, Paweł Sawicki, Radosław Głombiowski, Grzegorz Melz
 
 * Cel dokumentu:		
 
-`Dokument jest skierowany do osób pracujących z systemem. Opis przedstawia główne komponenty oraz zarys produktu.`
+>Dokument jest skierowany do osób pracujących z systemem. Opis przedstawia główne komponenty oraz zarys produktu.
 
 * Zakres produktu:
 
-`Program ma za zadanie pomóc osobom niedowidzącym oraz niewidomym w obsłudze telefonu.`
+>Program ma za zadanie pomóc osobom niedowidzącym oraz niewidomym w obsłudze telefonu.
 
 
 ###Opis aplikacji:
 
 * Ogolny opis:
 
-`Aplikacja powinna działać jako home screen na telefonach z systemem operacyjnym Android 2.3.3=<`
+>Aplikacja powinna działać jako home screen na telefonach z systemem operacyjnym Android 2.3.3 lub nowszym.
 
 * Możliwości systemu
 
