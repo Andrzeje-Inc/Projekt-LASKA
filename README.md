@@ -6,7 +6,7 @@ Group name: Andrzeje Inc.
 
 Project name: LASKA
 
-Members: Adrian Smykowski, Paweł Sawicki, Radosław Głombiowski, Grzegorz Melzer
+Members: Adrian Smykowski, Paweł Sawicki, Radosław Głombiowski
 
 Fanpage: https://www.facebook.com/AndrzejeInc
 
